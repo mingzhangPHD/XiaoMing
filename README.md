@@ -1,6 +1,7 @@
+![This is an image](https://github.com/mingzhangPHD/XiaoMing/blob/main/figures/xiaoming.jpg)
+
 # Welcome to Dr Xiao Ming's Pages
 
-![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/mingzhangPHD/XiaoMing/blob/main/figures/xiaoming.jpg))
 
 You can use the [editor on GitHub](https://github.com/mingzhangPHD/xiaoming.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
